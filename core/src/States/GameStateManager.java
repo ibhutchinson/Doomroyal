@@ -1,7 +1,9 @@
 package States;
 /*
- * GameStateManager.java
- * @verson 0.0.1
+ * 
+ * 
+ * GameStateManager variation from original version made by Brent Aureli 
+ * Youtube Channel: https://www.youtube.com/user/Profyx
  */
 import java.util.Stack;
 
